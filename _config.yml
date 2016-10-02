@@ -17,7 +17,7 @@ baseurl: ""
 title: Workshop on New Frontiers in Summarization at ACL 2017
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Workshop on New Frontiers in Summarization at ACL 2017
 
 # --- Navigation bar options --- #
 
@@ -39,28 +39,18 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  name: Lu Wang
+  email: "luwang@ccs.neu.edu"
+  
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   linkedin: false
   xing: false
   stackoverflow: false
@@ -71,10 +61,10 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
