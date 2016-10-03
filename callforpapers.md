@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Call For Papers
-subtitle: 
+title: 
+subtitle: Call For Papers 
 ---
