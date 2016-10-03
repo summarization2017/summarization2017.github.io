@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Workshop on New Frontiers in Summarization at ACL 2017
+title: Workshop on New Frontiers in Summarization
 
 # Short description of your site
-description: Workshop on New Frontiers in Summarization at ACL 2017
+description: Workshop on New Frontiers in Summarization
 
 # --- Navigation bar options --- #
 
