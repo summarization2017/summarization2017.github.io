@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Submission
+subtitle: 
 ---
 
 # Submission
