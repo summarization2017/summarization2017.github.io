@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 
-subtitle: 
 ---
 
 # Workshop Organizers
