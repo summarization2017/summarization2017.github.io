@@ -4,7 +4,9 @@ title:
 subtitle:
 ---
 
-## Organizers
+
+**Workshop Organizers**
+**Workshop Organizers**
 
 * [Lu Wang](http://www.ccs.neu.edu/home/luwang/) (Northeastern University, USA)
 * [Giuseppe Carenini](http://www.cs.ubc.ca/~carenini/) (University of British Columbia, Canada)
