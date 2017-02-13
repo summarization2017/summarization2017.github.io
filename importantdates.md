@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Important Dates
+subtitle: 
 ---
 
 # Important Dates
