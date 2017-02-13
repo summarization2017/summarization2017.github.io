@@ -4,7 +4,6 @@ title:
 subtitle: 
 ---
 
-# Important Dates
 
 Paper Submission Deadline: June 2, 2017
 
