@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 
+subtitle:
 ---
 
-# Workshop Organizers
 
 * [Lu Wang](http://www.ccs.neu.edu/home/luwang/) (Northeastern University, USA)
 * [Giuseppe Carenini](http://www.cs.ubc.ca/~carenini/) (University of British Columbia, Canada)
@@ -12,7 +12,7 @@ title:
 
 
 
-# Program Committee
+## Program Committee
 
 * Enrique Alfonseca (Google Research)
 * Asli Celikyilmaz (Microsoft Research)
