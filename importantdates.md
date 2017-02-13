@@ -6,10 +6,10 @@ subtitle: Important Dates
 
 # Important Dates
 
-Paper Submission Deadline:
+Paper Submission Deadline: June 2, 2017
 
-Author Notification:
+Author Notification: June 30, 2017
 
-Camera-Ready Deadline: 
+Camera-Ready Deadline: July 14, 2017
 
-Workshop Date: 
+Workshop Date: September 7, 2017
