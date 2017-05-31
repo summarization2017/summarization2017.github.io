@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-Paper Submission Deadline: June 2, 2017
+Paper Submission Deadline (extended): June 7, 2017 (original: June 2, 2017)
 
 Author Notification: June 30, 2017
 
