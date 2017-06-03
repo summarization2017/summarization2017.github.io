@@ -6,7 +6,9 @@ subtitle:
 
 **Call For Papers**
 
-Both long paper (eight (8) pages with two-page reference) and short paper (four (4) pages with two-page reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors' names or affiliations. A list of topics relevant to this workshop (but not limited to):
+Both long paper (eight (8) pages with two-page reference) and short paper (four (4) pages with two-page reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors' names or affiliations. Please use the <a href="http://acl2017.org/calls/papers/">ACL 2017 style templates</a>.
+
+A list of topics relevant to this workshop (but not limited to):
 
 <h2> Topics </h2>
 
