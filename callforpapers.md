@@ -10,7 +10,7 @@ Both long paper (eight (8) pages with two-page reference) and short paper (four 
 
 A list of topics relevant to this workshop (but not limited to):
 
-** Topics **
+**Topics**
 
 <li> Abstractive and extractive summarization </li>
 <li> Language generation </li>
