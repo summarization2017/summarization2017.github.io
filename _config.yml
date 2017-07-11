@@ -24,12 +24,12 @@ description: EMNLP 2017 Workshop on New Frontiers in Summarization
 # List of links in the navigation bar
 navbar-links:
   Home: "http://summarization2017.github.io/"
+  Accepted Papers: "acceptedpapers"
+  Schedule: "schedule"
   Organization: "organization"
   Call For Papers: "callforpapers"
   Submission: "submission"
   Important Dates: "importantdates"
-  Accepted Papers: "acceptedpapers"
-  Schedule: "schedule"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
