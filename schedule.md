@@ -9,7 +9,8 @@ subtitle:
 08:45–10:30	| Morning Session 1
 08:45–08:50	| Opening Remarks
 08:50–09:50	| Invited Talk by Andreas Kerren
-09:50–10:10	| <ul><li>*Video Highlights Detection and Summarization with Lag-Calibration based on Concept-Emotion Mapping of Crowdsourced Time-Sync Comments*</li><li>Qing Ping and Chaomei Chen</li></ul>
+09:50–10:10	| *Video Highlights Detection and Summarization with Lag-Calibration based on Concept-Emotion Mapping of Crowdsourced Time-Sync Comments* 
+              <br> Qing Ping and Chaomei Chen
 10:10–10:30	| *Multimedia Summary Generation from Online Conversations: Current Approaches and Future Directions*
             | * Enamul Hoque and Giuseppe Carenini            
 10:30–11:00	| Break
