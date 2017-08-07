@@ -19,25 +19,6 @@ subtitle:
 12:00–12:15	| *Low-Resource Neural Headline Generation* <br> Ottokar Tilk and Tanel Alumae
 12:15–12:30	| *Towards Improving Abstractive Summarization via Entailment Generation* <br> Ramakanth Pasunuru, Han Guo and Mohit Bansal            
 12:30–14:00	| Lunch
-14:00–15:30	| Poster Session
- 	          <br>  *Coarse-to-Fine Attention Models for Document Summarization*
-            <br>  Jeffrey Ling and Alexander Rush
- 	          <br>  *Automatic Community Creation for Abstractive Spoken Conversations Summarization*
- 	          <br>  Karan Singla, Evgeny Stepanov, Ali Orkan Bayer, Giuseppe Carenini and Giuseppe Riccardi
- 	 	        <br>  *Combining Graph Degeneracy and Submodularity for Unsupervised Extractive Summarization*
- 	          <br>  Antoine Tixier, Polykarpos Meladianos and Michalis Vazirgiannis
- 	 	        <br>  *TL;DR: Mining Reddit to Learn Automatic Summarization*
- 	          <br>  Michael Volske, Martin Potthast, Shahbaz Syed and Benno Stein
- 	 	        <br>  *Topic Model Stability for Hierarchical Summarization*
- 	          <br>  John Miller and Kathleen McCoy
- 	 	        <br>  *Learning to Score System Summaries for Better Content Selection Evaluation*
- 	          <br>  Maxime Peyrard, Teresa Botschen and Iryna Gurevych
- 	 	        <br>  *Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization*
- 	          <br>  Demian Gholipour Ghalandari
- 	 	        <br>  *Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset*
- 	          <br>  Piji Li, Lidong Bing and Wai Lam
- 	 	        <br>  *A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization*
- 	          <br>  Xinyu Hua and Lu Wang
 15:30–17:15	| Afternoon Session
 15:30–16:30	| Invited Talk by Ani Nenkova
 17:10–17:15	| Closing Remarks
