@@ -20,6 +20,7 @@ subtitle:
 12:15–12:30	| *Towards Improving Abstractive Summarization via Entailment Generation* <br> Ramakanth Pasunuru, Han Guo and Mohit Bansal            
 12:30–14:00	| Lunch
 14:00–15:30	| Poster Session <br> *Coarse-to-Fine Attention Models for Document Summarization* <br>Jeffrey Ling and Alexander Rush
+<br>*Automatic Community Creation for Abstractive Spoken Conversations Summarization* <br>Karan Singla, Evgeny Stepanov, Ali Orkan Bayer, Giuseppe Carenini and Giuseppe Riccardi
 15:30–17:15	| Afternoon Session
 15:30–16:30	| Invited Talk by Ani Nenkova
 17:10–17:15	| Closing Remarks
