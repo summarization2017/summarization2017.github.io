@@ -4,7 +4,7 @@ title:
 subtitle: 
 ---
 
-** Workshop Schedule **
+**Workshop Schedule**
 
 08:45–10:30	| Morning Session 1
 08:45–08:50	| Opening Remarks
@@ -12,19 +12,15 @@ subtitle:
 09:50–10:10	| Video Highlights Detection and Summarization with Lag-Calibration based on Concept-Emotion Mapping of Crowdsourced Time-Sync Comments
             | Qing Ping and Chaomei Chen
 10:10–10:30	| Multimedia Summary Generation from Online Conversations: Current Approaches and Future Directions
-            | Enamul Hoque and Giuseppe Carenini
-            
+            | Enamul Hoque and Giuseppe Carenini            
 10:30–11:00	| Break
-
 11:00–12:30	| Morning Session 2
 11:00–12:00	| Invited Talk by Katja Filippova
 12:00–12:15	| Low-Resource Neural Headline Generation
-            | Ottokar Tilk and Tanel Alumäe
+            | Ottokar Tilk and Tanel Alumae
 12:15–12:30	| Towards Improving Abstractive Summarization via Entailment Generation
-            | Ramakanth Pasunuru, Han Guo and Mohit Bansal
-            
+            | Ramakanth Pasunuru, Han Guo and Mohit Bansal            
 12:30–14:00	| Lunch
-
 14:00–15:30	| Poster Session
  	          | Coarse-to-Fine Attention Models for Document Summarization
             | Jeffrey Ling and Alexander Rush
@@ -44,7 +40,6 @@ subtitle:
  	          | Piji Li, Lidong Bing and Wai Lam
  	 	        | A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization
  	          | Xinyu Hua and Lu Wang
-            
 15:30–17:15	| Afternoon Session
 15:30–16:30	| Invited Talk by Ani Nenkova
 17:10–17:15	| Closing Remarks
