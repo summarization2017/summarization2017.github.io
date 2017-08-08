@@ -5,6 +5,7 @@ subtitle:
 ---
 
 **Workshop Schedule**
+Note: For presentation format, posters will use A0 landscape, each long talk is 16 minutes plus 4 minutes QA, and each short talk is 12 minutes plus 3 minutes QA.
 
  Time   | Content 
  -------- | ---------- 
