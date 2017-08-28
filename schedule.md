@@ -5,6 +5,7 @@ subtitle:
 ---
 
 **Workshop Schedule** <br>
+The workshop takes place at **Enghave Plads & Kødbyen at <a href="http://www.visitdenmark.co.uk/en-gb/denmark/cph-conference-gdk495669">CPH conference</a>** on September 7th.
 
 Note: For presentation format, posters will use A0 landscape, each long talk is 16 minutes plus 4 minutes QA, and each short talk is 12 minutes plus 3 minutes QA.
 
